@@ -1,0 +1,18 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Tek sayfa uygulama: /tasarla/..., /urun/... gibi adresler doğrudan açılınca index.html dönsün.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Derlenen dosyalar içerik özetli adlarla gelir; uzun süre önbelleğe alınabilir.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

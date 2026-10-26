@@ -1,0 +1,2918 @@
+{
+ "MultiSideA": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 150.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1200.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200.0
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "WallMountedF": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 150.0,
+    "max": 500.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1500.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "StandardUnitI": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 150.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 2100.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200.0
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "SofaD": {
+  "overall": {
+   "width": {
+    "min": 500.0,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 350.0,
+    "max": 900.0
+   },
+   "depth": {
+    "min": 400.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 3.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 150.0,
+   "cushionGap": 10.0,
+   "backDepth": 120.0,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200.0,
+     "count": 1
+    },
+    {
+     "max": 1800.0,
+     "count": 2
+    },
+    {
+     "max": 2700.0,
+     "count": 3
+    },
+    {
+     "max": 9999.0,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 150.0,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "TableE": {
+  "overall": {
+   "width": {
+    "min": 300.0,
+    "max": 3480.0
+   },
+   "height": {
+    "min": 230.0,
+    "max": 2000.0
+   },
+   "depth": {
+    "min": 300.0,
+    "max": 1200.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "CornerA": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 1800.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 300.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1200.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200.0
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 5.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50.0
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "TableD": {
+  "overall": {
+   "width": {
+    "min": 500.0,
+    "max": 3480.0
+   },
+   "height": {
+    "min": 230.0,
+    "max": 2000.0
+   },
+   "depth": {
+    "min": 500.0,
+    "max": 1200.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "WallMountedC": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 150.0,
+    "max": 500.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1500.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "LShapedA": {
+  "overall": {
+   "width": {
+    "min": 500.0,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200,
+    "max": 900.0
+   },
+   "depth": {
+    "min": 400.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50.0
+  },
+  "sofa": {
+   "seatHeight": 250.0,
+   "cushionGap": 10.0,
+   "backDepth": 120.0,
+   "armExtra": 300.0,
+   "backExtra": 270.0,
+   "seats": [
+    {
+     "max": 1200.0,
+     "count": 1
+    },
+    {
+     "max": 1800.0,
+     "count": 2
+    },
+    {
+     "max": 2700.0,
+     "count": 3
+    },
+    {
+     "max": 9999.0,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000.0,
+     "count": 2
+    },
+    {
+     "max": 2000.0,
+     "count": 3
+    },
+    {
+     "max": 9999.0,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250.0,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "SofaC": {
+  "overall": {
+   "width": {
+    "min": 500.0,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200,
+    "max": 900.0
+   },
+   "depth": {
+    "min": 400.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50.0
+  },
+  "sofa": {
+   "seatHeight": 250.0,
+   "cushionGap": 10.0,
+   "backDepth": 120.0,
+   "armExtra": 300.0,
+   "backExtra": 270.0,
+   "seats": [
+    {
+     "max": 1200.0,
+     "count": 1
+    },
+    {
+     "max": 1800.0,
+     "count": 2
+    },
+    {
+     "max": 2700.0,
+     "count": 3
+    },
+    {
+     "max": 9999.0,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1800.0,
+     "count": 2
+    },
+    {
+     "max": 2700.0,
+     "count": 3
+    },
+    {
+     "max": 9999.0,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250.0,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "SimpleBench": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 300.0,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 300.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 50.0,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 50.0,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "WallMountedD": {
+  "overall": {
+   "width": {
+    "min": 300.0,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200.0,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 200.0,
+    "max": 500.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1500.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "AccessoryA": {
+  "overall": {
+   "width": {
+    "min": 500.0,
+    "max": 1800.0
+   },
+   "height": {
+    "min": 500.0,
+    "max": 1800.0
+   },
+   "depth": {
+    "min": 18,
+    "max": 18
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "BenchC": {
+  "overall": {
+   "width": {
+    "min": 400.0,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200.0,
+    "max": 1800.0
+   },
+   "depth": {
+    "min": 340.0,
+    "max": 1000.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 50.0,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 50.0,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "BedB": {
+  "overall": {
+   "width": {
+    "min": 500.0,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 270.0,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 300.0,
+    "max": 3600.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250.0,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250.0,
+   "railMin": 150.0
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "DeskA": {
+  "overall": {
+   "width": {
+    "min": 300.0,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200.0,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 400.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 3600.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 50.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "StandardUnitC": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 150.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1200.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200.0
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "CornerC": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 1800.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 300.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1200.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200.0
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50.0
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "CornerB": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 1800.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 300.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1200.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "SimpleShapeE": {
+  "overall": {
+   "width": {
+    "min": 300.0,
+    "max": 1200.0
+   },
+   "height": {
+    "min": 500,
+    "max": 7000
+   },
+   "depth": {
+    "min": 200.0,
+    "max": 1000.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2.0,
+    "max": 7.0
+   }
+  }
+ },
+ "StandardUnitG": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 1200.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 150.0,
+    "max": 900.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1200.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200.0
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "StandardUnitF": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 1200.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 150.0,
+    "max": 400.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 400.0,
+   "max": 1200.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200.0
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4.0
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "StandardUnitH": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 1200.0
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 150.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 500.0,
+   "max": 1200.0
+  },
+  "compartment": {
+   "minHeight": 200.0
+  },
+  "base": {
+   "min": 50.0,
+   "max": 200.0
+  },
+  "overhangMax": 500.0,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "SimpleShapeB": {
+  "overall": {
+   "width": {
+    "min": 70.0,
+    "max": 1800.0
+   },
+   "height": {
+    "min": 70.0,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 18,
+    "max": 18
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "SimpleShapeA": {
+  "overall": {
+   "width": {
+    "min": 200,
+    "max": 3600
+   },
+   "height": {
+    "min": 200,
+    "max": 3600.0
+   },
+   "depth": {
+    "min": 150.0,
+    "max": 1800.0
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200.0,
+   "max": 1200.0
+  },
+  "compartment": {
+   "minHeight": 100.0
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "SimpleShapeC": {
+  "overall": {
+   "width": {
+    "min": 500.0,
+    "max": 1800.0
+   },
+   "height": {
+    "min": 500.0,
+    "max": 1800.0
+   },
+   "depth": {
+    "min": 18,
+    "max": 18
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ },
+ "SimpleShapeD": {
+  "overall": {
+   "width": {
+    "min": 500.0,
+    "max": 1800.0
+   },
+   "height": {
+    "min": 500.0,
+    "max": 1800.0
+   },
+   "depth": {
+    "min": 18,
+    "max": 18
+   }
+  },
+  "elevation": {
+   "min": 0,
+   "max": 2400
+  },
+  "section": {
+   "min": 200,
+   "max": 2100
+  },
+  "compartment": {
+   "minHeight": 100
+  },
+  "base": {
+   "min": 50,
+   "max": 200
+  },
+  "overhangMax": 500,
+  "thicknesses": [
+   18
+  ],
+  "topThicknesses": [
+   18,
+   36
+  ],
+  "back": {
+   "thickness": 8
+  },
+  "front": {
+   "gapX": 2.6,
+   "gapY": 2.7,
+   "drawerGap": 4
+  },
+  "door": {
+   "maxWidth": 600
+  },
+  "drawer": {
+   "min": 100,
+   "max": 700
+  },
+  "legs": {
+   "small": 45.5,
+   "large": 75.5,
+   "inset": 50
+  },
+  "sofa": {
+   "seatHeight": 250,
+   "cushionGap": 10,
+   "backDepth": 120,
+   "armExtra": 300,
+   "backExtra": 270,
+   "seats": [
+    {
+     "max": 1200,
+     "count": 1
+    },
+    {
+     "max": 1800,
+     "count": 2
+    },
+    {
+     "max": 2700,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ],
+   "legs": [
+    {
+     "max": 1000,
+     "count": 2
+    },
+    {
+     "max": 2000,
+     "count": 3
+    },
+    {
+     "max": 9999,
+     "count": 4
+    }
+   ]
+  },
+  "bed": {
+   "mattress": 250,
+   "railMin": 150
+  },
+  "cubes": {
+   "count": {
+    "min": 2,
+    "max": 7
+   }
+  }
+ }
+}
