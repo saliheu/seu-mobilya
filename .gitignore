@@ -3,3 +3,6 @@ dist
 *.local
 .netlify
 .vite
+
+# yerel editor/arac ayarlari
+.claude/
